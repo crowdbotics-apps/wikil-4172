@@ -1,0 +1,3 @@
+rootProject.name = 'wikil_4172'
+
+include ':app'

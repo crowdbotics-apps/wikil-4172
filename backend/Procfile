@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT wikil_4172.wsgi:application
